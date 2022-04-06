@@ -1,0 +1,157 @@
+# depslib dependency file v1.0
+1496016450 source:c:\users\dcost\documents\projetoppp\projetoppp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"header.h"
+	"disciplinas.c"
+	"alunos.c"
+	"exames.c"
+	"misc.c"
+
+1496016670 c:\users\dcost\documents\projetoppp\projetoppp\header.h
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1496015300 c:\users\dcost\documents\projetoppp\projetoppp\disciplinas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1496014990 c:\users\dcost\documents\projetoppp\projetoppp\alunos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1496016670 c:\users\dcost\documents\projetoppp\projetoppp\exames.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1496015833 c:\users\dcost\documents\projetoppp\projetoppp\misc.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<ctype.h>
+	"header.h"
+
+1496099753 source:c:\users\hipol\desktop\projetoppp final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"header.h"
+	"disciplinas.c"
+	"alunos.c"
+	"exames.c"
+	"misc.c"
+	"ficheiros.c"
+
+1496097428 c:\users\hipol\desktop\projetoppp final\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+
+1496097899 c:\users\hipol\desktop\projetoppp final\disciplinas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1496095708 c:\users\hipol\desktop\projetoppp final\alunos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1496097936 c:\users\hipol\desktop\projetoppp final\exames.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1496092540 c:\users\hipol\desktop\projetoppp final\misc.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<ctype.h>
+	"header.h"
+
+1496099882 c:\users\hipol\desktop\projetoppp final\ficheiros.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1496101387 source:c:\users\dcost\documents\handhistory\projetoppp final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<ctype.h>
+	"header.h"
+	"disciplinas.c"
+	"alunos.c"
+	"exames.c"
+	"misc.c"
+	"ficheiros.c"
+
+1496100499 c:\users\dcost\documents\handhistory\projetoppp final\header.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+
+1496101387 c:\users\dcost\documents\handhistory\projetoppp final\disciplinas.c
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1496101446 c:\users\dcost\documents\handhistory\projetoppp final\alunos.c
+	<conio.h>
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1496101075 c:\users\dcost\documents\handhistory\projetoppp final\exames.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"header.h"
+
+1496100498 c:\users\dcost\documents\handhistory\projetoppp final\misc.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	<unistd.h>
+	<ctype.h>
+	"header.h"
+
+1496100509 c:\users\dcost\documents\handhistory\projetoppp final\ficheiros.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
